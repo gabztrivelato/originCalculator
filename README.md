@@ -7,7 +7,7 @@
 # 📕| About
 Projeto calculadora online feita com Javascript, HTML &amp; CSS
 ## Funções da calculadora:
-   - Limpar o display
+   * Limpar o display
    - Limpar ultimo numero digitado
    - Somar
    - Subtrair
